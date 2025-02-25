@@ -43,7 +43,7 @@ restaurant-backend/
 Clone the repository
 
 
-git clone https://github.com/your-username/restaurant-backend.git
+git clone =(https://github.com/hustlers9720/Restaurant-Fully-Backend)
 cd restaurant-backend
 Install dependencies
 
@@ -56,7 +56,7 @@ Run the server
 
 
 npm start
-The backend should now be running on http://localhost:5000 (or your specified port).
+The backend should now be running on http://localhost:3000 (or your specified port).
 
 📌 API Endpoints
 Method	Endpoint	Description
